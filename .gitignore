@@ -1,0 +1,25 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# PyInstaller intermediate output
+build/
+*.spec
+
+# Local authorization, generated previews, and runtime state
+quark_mount_cookies.json
+quark_auth_state.json
+quark_authorize_qr.png
+config/
+data/
+
+# Local agent state and personal workspace instructions
+openclaw_data/
+memory/
+github_config.py
+AGENTS.md
+IDENTITY.md
+MEMORY.md
+SOUL.md
+TOOLS.md
+USER.md
